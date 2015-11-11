@@ -1,0 +1,64 @@
+    .topnav{
+
+        background:#6eafc5;
+        height:50px;
+        margin-bottom: 50px;   
+
+    }
+
+    .logo{
+text-align: center;
+font-family: 'Segoe UI', serif;
+font-size: 50px;
+font-weight: bolder;
+        color: #6eafc5;
+
+    }
+body{
+	background: #e5e5e5;
+	font-size: 16px;
+}
+
+.center {
+	margin:50px auto;
+	text-align: center;
+}
+
+.footer{
+
+margin:120px auto;}
+
+.formcontainer{
+	margin:0 auto;
+	width:80%;
+}
+
+.formcontainer input[type="radio"]{
+
+	text-align: left;
+	
+}
+
+.formcontainer .radio {
+
+
+	margin-top: 25px;
+}
+
+.heading {
+
+
+	font-size: 50px;
+	font-weight: bolder;
+}
+
+
+    .footer i {
+
+        color:red;
+    }
+ .footer .center i {
+
+text-transform: uppercase;
+
+ }
